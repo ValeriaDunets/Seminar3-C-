@@ -1,0 +1,15 @@
+/Users/valeriadunets/Desktop/ДЗ C# Семинар3/obj/Debug/net6.0/ДЗ C# Семинар3.csproj.AssemblyReference.cache
+/Users/valeriadunets/Desktop/ДЗ C# Семинар3/obj/Debug/net6.0/ДЗ C# Семинар3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valeriadunets/Desktop/ДЗ C# Семинар3/obj/Debug/net6.0/ДЗ C# Семинар3.AssemblyInfoInputs.cache
+/Users/valeriadunets/Desktop/ДЗ C# Семинар3/obj/Debug/net6.0/ДЗ C# Семинар3.AssemblyInfo.cs
+/Users/valeriadunets/Desktop/ДЗ C# Семинар3/obj/Debug/net6.0/ДЗ C# Семинар3.csproj.CoreCompileInputs.cache
+/Users/valeriadunets/Desktop/ДЗ C# Семинар3/bin/Debug/net6.0/ДЗ C# Семинар3
+/Users/valeriadunets/Desktop/ДЗ C# Семинар3/bin/Debug/net6.0/ДЗ C# Семинар3.deps.json
+/Users/valeriadunets/Desktop/ДЗ C# Семинар3/bin/Debug/net6.0/ДЗ C# Семинар3.runtimeconfig.json
+/Users/valeriadunets/Desktop/ДЗ C# Семинар3/bin/Debug/net6.0/ДЗ C# Семинар3.dll
+/Users/valeriadunets/Desktop/ДЗ C# Семинар3/bin/Debug/net6.0/ДЗ C# Семинар3.pdb
+/Users/valeriadunets/Desktop/ДЗ C# Семинар3/obj/Debug/net6.0/ДЗ C# Семинар3.dll
+/Users/valeriadunets/Desktop/ДЗ C# Семинар3/obj/Debug/net6.0/refint/ДЗ C# Семинар3.dll
+/Users/valeriadunets/Desktop/ДЗ C# Семинар3/obj/Debug/net6.0/ДЗ C# Семинар3.pdb
+/Users/valeriadunets/Desktop/ДЗ C# Семинар3/obj/Debug/net6.0/ДЗ C# Семинар3.genruntimeconfig.cache
+/Users/valeriadunets/Desktop/ДЗ C# Семинар3/obj/Debug/net6.0/ref/ДЗ C# Семинар3.dll
